@@ -1,12 +1,12 @@
 import '../components/header.tag';
 import '../components/itemlist.tag';
 
-<projects>
+<listtodo>
   <header></header>
   <div class="content">
-    <h2>Projects</h2>
+    <h2>ListToDo</h2>
     <p>
-Tu odczytamy zawartość formy
+    Tu odczytamy zawartość formy
     </p>
   </div>
-</projects>
+</listtodo>

@@ -1,12 +1,12 @@
 import '../components/header.tag';
 import '../components/itemlist.tag';
 
-<projects>
+<addtodo>
   <header></header>
   <div class="content">
-    <h2>Projects</h2>
+    <h2>AddToDo</h2>
     <p>
-tutaj wrzucimy forme.
+    tutaj wrzucimy forme.
     </p>
   </div>
-</projects>
+</addtodo>
