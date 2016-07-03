@@ -10,7 +10,7 @@ class Router{
 
   constructor(){
     this._currentView = null;
-    this._views = ['home', 'projects'];
+    this._views = ['home', 'projects','AddToDo','ListToDo'];
     this._defaultView = 'home';
     
     riot.route(this._handleRoute.bind(this));
