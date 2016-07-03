@@ -12,7 +12,7 @@ class ItemStore{
       
       // fake async op 
       setTimeout(() => {
-        this.items = [{ name : 'test a' },{ name : 'test b' } ,{ name : 'test c' }, { name : 'test d' }];
+        this.items = [{ name : 'test aa' },{ name : 'test bb' } ,{ name : 'test cc' }, { name : 'test dd' }];
         this.trigger(riot.EVT.loadItemsSuccess, this.items);
       }, 200);
 
